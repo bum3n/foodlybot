@@ -1,0 +1,6 @@
+{
+  "name": "Smart NutriBot - AI Дневник Питания Telegram",
+  "description": "Умный AI-дневник питания для Telegram: распознавание текста, голоса и фото еды, строгий расчёт КБЖУ без галлюцинаций, Open Food Facts и Telegram Mini App.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
