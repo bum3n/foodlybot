@@ -83,7 +83,7 @@ AI Parser (Gemini Flash) → строго структурированный JSO
 Клонируйте репозиторий и создайте виртуальное окружение:
 
 ```bash
-git clone <URL_РЕПОЗИТОРИЯ>
+git clone https://github.com/bum3n/foodlybot
 cd telegram-nutribot
 
 # Создание виртуального окружения
